@@ -9,4 +9,6 @@ img {
     background: var(--color);
     filter: blur(var(--blur));
 }
-
+.span {
+    color: var(--color);
+}
