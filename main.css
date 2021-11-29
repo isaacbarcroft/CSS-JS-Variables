@@ -1,0 +1,12 @@
+:root {
+    --color: rgb(40, 216, 55);
+    --spacing: 10px;
+    --blur: 10px;
+}
+img {
+    width: 50%;
+    padding: var(--spacing);
+    background: var(--color);
+    filter: blur(var(--blur));
+}
+
